@@ -1,0 +1,30 @@
+.banner {
+  text-align: center;
+  color: midnightblue;
+  padding: 10px;
+  background-color: white;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color: white;
+  border: 0.5px solid lightgray ;
+  margin: 10px;
+}
+
+.graph-container {
+  background-color: #3f8ac7;
+  color: white;
+  text-align: center;
+  border: 1px solid black;
+  margin: 10px;
+  max-width: 800px;
+  min-width: 500px;
+  height: fit-content;
+}
+
+.graph {
+  background-color: white;
+  color: red
+}
